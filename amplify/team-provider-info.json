@@ -1,0 +1,14 @@
+{
+    "brx": {
+        "awscloudformation": {
+            "AuthRoleName": "experience-react-sdk-brx-20190925173327-authRole",
+            "UnauthRoleArn": "arn:aws:iam::983198666688:role/experience-react-sdk-brx-20190925173327-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::983198666688:role/experience-react-sdk-brx-20190925173327-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "experience-react-sdk-brx-20190925173327-deployment",
+            "UnauthRoleName": "experience-react-sdk-brx-20190925173327-unauthRole",
+            "StackName": "experience-react-sdk-brx-20190925173327",
+            "StackId": "arn:aws:cloudformation:eu-west-1:983198666688:stack/experience-react-sdk-brx-20190925173327/d228ff40-dfa9-11e9-8142-0ad40b996c20"
+        }
+    }
+}
